@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'stegovideo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7969CC49B528487EB5BC7E4ABF830A4D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03ADEEC26DBA45EF88B24FB26A55E606 }}
